@@ -24,7 +24,7 @@ author:
   avatar           : "hilbert.54.jpg"
   name             : "Torey Hilbert"
   pronouns         : "He/Him"  
-  bio              : "Hello Humans! I am a 4th year PhD student in Statistics at Ohio State University. I study distribution free methods, the effects of model misspecification, and statistical genetics. I am part of the Insect-Microbial Symbiosis Lab, led by Dr. Zakee Sabree, where I study the integration of transcriptomics, microbiomics, and imaging data."
+  bio              : "6th year PhD student in Statistics at Ohio State University, working with Steven MacEachern and Yuan Zhang on Bayesian predictive inference, with an applied interest in microecology and multiomics problems."
   location         : "Columbus, Ohio"
   employer         : "Ohio State University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-1287-1114" # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
