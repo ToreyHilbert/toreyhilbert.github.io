@@ -18,16 +18,16 @@ Education
 
 Publications
 ======
-#### Preprints
-Hilbert (2026+)
-**Predictive inference via kernel density estimates**
-[(arxiv)[https://arxiv.org/abs/2605.14008]]
+### Preprints
+Hilbert (2026+) <br>
+**Predictive inference via kernel density estimates** <br>
+[[arxiv](https://arxiv.org/abs/2605.14008)]
 
-#### Peer-reviewed papers
-Hilbert, MacEachern & Zhang (2026)
-**Robust distribution-free tests for the linear model**
-(Statistics in Medicine)[https://doi.org/10.1002/sim.70404]
-[(arxiv)[https://arxiv.org/abs/2501.00583]] [(code)[https://github.com/ToreyHilbert/RobustPALMRT)]]
+### Peer-reviewed papers
+Hilbert, MacEachern & Zhang (2026) <br>
+**Robust distribution-free tests for the linear model** <br>
+[[Statistics in Medicine](https://doi.org/10.1002/sim.70404)]
+[[arxiv](https://arxiv.org/abs/2501.00583)] [[code](https://github.com/ToreyHilbert/RobustPALMRT)]
 
 
 Teaching
